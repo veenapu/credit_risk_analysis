@@ -12,11 +12,15 @@ For all three algorithms, the following have been completed:
 - A confusion matrix has been generated
 - An imbalanced classification report has been generated
 
+
+
 ### Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
 The combinatorial SMOTEENN algorithm does the following:
 - An accuracy score for the model is calculated
 - A confusion matrix has been generated
-- An imbalanced classification report has been generated 
+- An imbalanced classification report has been generated
+
+ 
 
 ### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 The BalancedRandomForestClassifier algorithm does the following:
@@ -37,3 +41,22 @@ The EasyEnsembleClassifier algorithm does the following:
 ## Summary: 
 - Summarize the results of the machine learning models, and 
 - include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+
+
+![fig1_oversampling_counter](https://github.com/veenapu/credit_risk_analysis/blob/main/Images/fig1_oversampling_counter.PNG)
+
+![fig2_balanced_accuracy_score](https://github.com/veenapu/credit_risk_analysis/blob/main/Images/fig2_balanced_accuracy_score.PNG)
+
+![fig3_precision_rate](https://github.com/veenapu/credit_risk_analysis/blob/main/Images/fig3_precision_rate.PNG)
+
+![fig4_undersampling_counter](https://github.com/veenapu/credit_risk_analysis/blob/main/Images/fig4_undersampling_counter.PNG)
+
+![fig5_balanced_accuracy_score](https://github.com/veenapu/credit_risk_analysis/blob/main/Images/fig5_balanced_accuracy_score.PNG)
+
+![fig6_precision_rate](https://github.com/veenapu/credit_risk_analysis/blob/main/Images/fig6_precision_rate.PNG)
+
+![fig7_SMOTEENN_counter](https://github.com/veenapu/credit_risk_analysis/blob/main/Images/fig7_SMOTEENN_counter.PNG)
+
+![fig8_balanced_accuracy_score](https://github.com/veenapu/credit_risk_analysis/blob/main/Images/fig8_balanced_accuracy_score.PNG)
+
+![fig9_precision_rate](https://github.com/veenapu/credit_risk_analysis/blob/main/Images/fig9_precision_rate.PNG)
