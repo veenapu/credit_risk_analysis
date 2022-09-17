@@ -90,7 +90,7 @@ Here is a bulleted list that describes the balanced accuracy score and the preci
 
 ![fig11_Easy_Ensemble_Adaboost_Classifier_Accuracy_Score](https://github.com/veenapu/credit_risk_analysis/blob/main/Images/fig11_Easy_Ensemble_Adaboost_Classifier_Accuracy_Score.PNG)
 
-![fig12_Easy_Ensemble_Adaboost_Classifier_Precision_&_Recall_Scores_](https://courses.bootcampspot.com/courses/1559/assignments/30079?module_item_id=597082)
+![fig12_Easy_Ensemble_Adaboost_Classifier_Precision_&_Recall_Scores_](https://github.com/veenapu/credit_risk_analysis/blob/main/Images/fig12_Easy_Ensemble_Adaboost_Classifier_Precision_%26_Recall_Scores.PNG)
 
 - Balanced Accuracy Score is 93%
 - High Risk precision is about 9% and a sensitivity of 94% which gives F1 of 16%
