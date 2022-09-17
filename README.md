@@ -90,7 +90,7 @@ Here is a bulleted list that describes the balanced accuracy score and the preci
 
 ![fig11_Easy_Ensemble_Adaboost_Classifier_Accuracy_Score](https://github.com/veenapu/credit_risk_analysis/blob/main/Images/fig11_Easy_Ensemble_Adaboost_Classifier_Accuracy_Score.PNG)
 
-![fig12_Easy_Ensemble_Adaboost_Classifier_Precision_&_Recall_Scores](https://courses.bootcampspot.com/courses/1559/assignments/30079?module_item_id=597082)
+![fig12_Easy_Ensemble_Adaboost_Classifier_Precision_&_Recall_Scores_](https://courses.bootcampspot.com/courses/1559/assignments/30079?module_item_id=597082)
 
 - Balanced Accuracy Score is 93%
 - High Risk precision is about 9% and a sensitivity of 94% which gives F1 of 16%
@@ -103,22 +103,22 @@ Here is a bulleted list that describes the balanced accuracy score and the preci
 Compared to all six models, the Easy Ensemble AdaBoost Classifier model yielded the best results with an Accuracy Score of 93.2% and a Precision Rate of 9% for the High Risk applicants. The Recall/Sensitivity rate is also the highest at 92% when compared to all models. For Low Risk applicants, the Recall/Sensitivity rate is also the highest – 94% with a F1 Score of 97%. So, this model would be an ideal model to be recommended to perform this kind of analysis.
 
 ### Ranking of models in descending order based on “High Risks” results:
-•	Easy Ensemble AdaBoost Classifier
+1)	Easy Ensemble AdaBoost Classifier
 Accuracy – 93.2%, Precision – 9%, Recall – 92%, F1 – 16%
 
-•	Balanced Random Forest Classifier
+2)	Balanced Random Forest Classifier
 Accuracy – 78.9%, Precision – 3%, Recall – 70%, F1 – 6%
 
-•	SMOTE Oversampling
+3)	SMOTE Oversampling
 Accuracy – 66.2%, Precision – 1%, Recall – 63%, F1 – 2%
 
-•	Naïve Random Oversampling
+4)	Naïve Random Oversampling
 Accuracy – 66.0%, Precision – 1%, Recall – 69%, F1 – 2%
 
-•	Combination Sampling (Over and Under)
+5)	Combination Sampling (Over and Under)
 Accuracy – 64.5%, Precision – 1%, Recall – 72%, F1 – 2%
 
-•	Under Sampling
+6)	Under Sampling
 Accuracy – 54.5%, Precision – 1%, Recall – 69%, F1 – 2%
 
 
